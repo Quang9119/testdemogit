@@ -10,5 +10,5 @@ int main()
 }
 void tinhtong(char str1,char str2)
 {
-	
+	cout <<"Asdasd";
 }
